@@ -1,7 +1,8 @@
 # Leetcode-Problems 
-# Python Solutions
+## Python Solutions
 
-Author: William Merritt
-Email: WilliamMerritt515@gmail.com
+## Author: William Merritt
+
+## Email: WilliamMerritt515@gmail.com
 
 
