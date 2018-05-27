@@ -1,2 +1,7 @@
-# single-number
-Repository for Leetcode "Single-Number" problem. 
+# Leetcode-Problems 
+# Python Solutions
+
+Author: William Merritt
+Email: WilliamMerritt515@gmail.com
+
+
