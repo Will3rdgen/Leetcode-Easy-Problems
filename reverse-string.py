@@ -24,3 +24,4 @@ class Solution:
     def reverseString(self, s):
         newString = s[::-1] 
         return (newString)
+        
