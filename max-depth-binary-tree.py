@@ -22,6 +22,8 @@
 
     return its depth = 3.
  '''
+# Time Complexity: O(n)
+# Space Complexity: O(n) 
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -35,14 +37,10 @@ class Solution:
     # @param root
     # @return int
     def maxDepth(self, root):
-        """
-        :type root: TreeNode
-        :rtype: int
-        """
-        if root is None:
-            return 0 ; 
 
+        if root is None:
+            return 0; 
         return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))
 
-        
+# NOTE: Be able to write iterative solution to recursive problem         
         
