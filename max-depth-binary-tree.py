@@ -42,5 +42,5 @@ class Solution:
             return 0; 
         return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))
 
-# NOTE: Be able to write iterative solution to recursive problem         
+# note: Be able to write iterative solution to recursive problem         
         
