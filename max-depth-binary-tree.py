@@ -39,8 +39,8 @@ class Solution:
     def maxDepth(self, root):
 
         if root is None:
-            return 0; 
+            return 0 
         return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))
 
-# note: Be able to write iterative solution to recursive problem         
+# NOTE: Be able to write iterative solution to recursive problem         
         
